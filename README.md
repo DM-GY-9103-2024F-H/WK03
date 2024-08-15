@@ -1,3 +1,3 @@
 # Week 03
 
-Data Structures for Audio
+Audio representation and processing
