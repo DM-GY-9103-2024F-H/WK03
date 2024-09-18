@@ -1,3 +1,4 @@
 # Week 03
 
-Audio representation and processing
+- Lists and Data Analysis
+- Audio representation and processing
